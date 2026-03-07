@@ -82,54 +82,23 @@ Interactive, localStorage-persisted, with Markdown export.
 
 ### Home Page — Hero & Overview
 
-> **Add screenshot:** Run the app, navigate to `/`, take a screenshot, and replace this section.
-> Suggested path: `public/screenshots/home.png`
-
-```
-📸 Screenshot: Home page — hero section, actors overview, flows grid
-```
+![home](public/screenshots/home.png)
 
 ### OAuth Flows Overview
 
-> **Add screenshot:** Navigate to `/flows`
-
-```
-📸 Screenshot: /flows — all 5 flow cards with descriptions
-```
+![flow](public/screenshots/flow.png)
 
 ### Interactive Playground
 
-> **Add screenshot:** Navigate to `/playground`
-
-```
-📸 Screenshot: /playground — JWT Inspector and PKCE Generator tabs
-```
+![playground](public/screenshots/playground.png)
 
 ### Security Checklist
 
-> **Add screenshot:** Navigate to `/checklist`
-
-```
-📸 Screenshot: /checklist — interactive checklist with progress bar
-```
+![checklist](public/screenshots/checklist.png)
 
 ### Edge Case Library
 
-> **Add screenshot:** Navigate to `/edge-cases`
-
-```
-📸 Screenshot: /edge-cases — 8 security vulnerability cards
-```
-
----
-
-> **Tip for adding screenshots:** Take screenshots with your browser at 1280×800, save them to `public/screenshots/`, then replace each block above with:
->
-> ```md
-> ![Description](public/screenshots/filename.png)
-> ```
-
----
+![edge-cases](public/screenshots/edge-cases.png)
 
 ## Tech Stack
 
