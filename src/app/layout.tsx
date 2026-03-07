@@ -68,7 +68,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                     <span>· © 2026</span>
                   </div>
                   <a
-                    href="https://github.com/hananbabar98/oauth"
+                    href="https://github.com/hananbabar98/oauth-mastery"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-1.5 text-muted-foreground hover:text-foreground transition-colors"

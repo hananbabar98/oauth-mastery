@@ -13,7 +13,7 @@
 **Master OAuth 2.0 and OAuth 2.1 — from first principles to production-ready implementation.**
 Interactive flow diagrams · JWT inspector · PKCE generator · Security checklists · Role-based learning paths
 
-[Report a Bug](https://github.com/hananbabar98/oauth/issues) · [Request Feature](https://github.com/hananbabar98/oauth/issues)
+[Report a Bug](https://github.com/hananbabar98/oauth-mastery/issues) · [Request Feature](https://github.com/hananbabar98/oauth-mastery/issues)
 
 </div>
 
@@ -139,8 +139,8 @@ git --version    # should print git version x.x.x
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/hananbabar98/oauth.git
-cd oauth
+git clone https://github.com/hananbabar98/oauth-mastery.git
+cd oauth-mastery
 ```
 
 ---
@@ -295,8 +295,8 @@ Contributions, issues, and feature requests are welcome!
 1. **Fork** this repository on GitHub
 2. **Clone** your fork locally:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/oauth.git
-   cd oauth
+   git clone https://github.com/YOUR_USERNAME/oauth-mastery.git
+   cd oauth-mastery
    ```
 3. **Create** a feature branch:
    ```bash
@@ -324,7 +324,7 @@ Contributions, issues, and feature requests are welcome!
 
 ### Reporting Issues
 
-Found a bug or want to suggest a feature? [Open an issue](https://github.com/hananbabar98/oauth/issues) with:
+Found a bug or want to suggest a feature? [Open an issue](https://github.com/hananbabar98/oauth-mastery/issues) with:
 
 - A clear, descriptive title
 - Steps to reproduce the problem (for bugs)
