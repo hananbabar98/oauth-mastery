@@ -9,11 +9,12 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38BDF8?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-oauth--mastery.vercel.app-000000?style=for-the-badge&logo=vercel)](https://oauth-mastery.vercel.app/)
 
 **Master OAuth 2.0 and OAuth 2.1 — from first principles to production-ready implementation.**
 Interactive flow diagrams · JWT inspector · PKCE generator · Security checklists · Role-based learning paths
 
-[Report a Bug](https://github.com/hananbabar98/oauth-mastery/issues) · [Request Feature](https://github.com/hananbabar98/oauth-mastery/issues)
+[View Live Demo](https://oauth-mastery.vercel.app/) · [Report a Bug](https://github.com/hananbabar98/oauth-mastery/issues) · [Request Feature](https://github.com/hananbabar98/oauth-mastery/issues)
 
 </div>
 
@@ -169,6 +170,8 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser. You should see the OAuth Mastery home page with the hero section and flow overview.
+
+> Prefer to skip the setup? The platform is live at **[https://oauth-mastery.vercel.app/](https://oauth-mastery.vercel.app/)** — no installation required.
 
 The development server supports hot reload — any changes you make to source files are reflected instantly in the browser.
 
